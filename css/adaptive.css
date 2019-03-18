@@ -1,0 +1,38 @@
+@media screen and (max-width:660px){
+  .wrapper{
+    width: 100%;
+  }
+  .mobile-burger{
+    display: inline;
+    /* background-color: aqua; */
+  }
+  .header-logo img, .header-navigation {
+    display: none;
+  }
+  .search{
+    display: none;
+  }
+  .main-content{
+    display:flex;
+    flex-direction: column;
+  }
+  .main-contents{
+    display:flex;
+    flex-direction: column;
+  }
+  .content{
+    display:flex;
+    flex-direction: column;
+  }
+  .content__blocks h2{
+    /* width: 40%; */
+  }
+  .content__blocks h2:hover{
+    /* width: 40%; */
+    color: #0055a6;
+  }
+  .content__blocks p{
+    /* width: 40%; */
+  }
+
+}

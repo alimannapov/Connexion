@@ -1,0 +1,44 @@
+
+@font-face {
+    font-family: 'merriweather_sans';
+    src: url('merriweathersans-bold.woff2') format('woff2'),
+         url('merriweathersans-bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'merriweather_sans';
+    src: url('merriweathersans-extrabold.woff2') format('woff2'),
+         url('merriweathersans-extrabold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'merriweather_sans';
+    src: url('merriweathersans-regular.woff2') format('woff2'),
+         url('merriweathersans-regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('opensans-bold.woff2') format('woff2'),
+         url('opensans-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sansextrabold';
+    src: url('opensans-extrabold.woff2') format('woff2'),
+         url('opensans-extrabold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('opensans-regular.woff2') format('woff2'),
+         url('opensans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
